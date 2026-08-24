@@ -7,6 +7,7 @@
 
 ### 👋 Hi, I'm Burhan Yasin Köse
 
+🎓 **Electrical and Electronics Engineering Student** at **Bilecik Şeyh Edebali University**  
 > *"Bridging the gap between Control Panels, Embedded Hardware, and Industrial Automation Systems."*
 
 ---
@@ -38,4 +39,5 @@
 
 ### 📬 Connect With Me
 
+* 💼 **LinkedIn:** [linkedin.com/in/burhanyasinkose](https://www.linkedin.com/in/burhanyasinkose) *(veya kendi LinkedIn profil linkin)*
 * ✉️ **Email:** [burhanyasinkose@gmail.com](mailto:burhanyasinkose@gmail.com)

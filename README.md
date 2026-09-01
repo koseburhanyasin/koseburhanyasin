@@ -36,5 +36,5 @@
 
 ### 📬 Connect With Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/burhanyasinkose](www.linkedin.com/in/burhanyasinkose) *(veya kendi LinkedIn profil linkin)*
+* 💼 **LinkedIn:** [linkedin.com/in/burhanyasinkose](www.linkedin.com/in/burhanyasinkose)
 * ✉️ **Email:** [burhanyasinkose@gmail.com](mailto:burhanyasinkose@gmail.com)

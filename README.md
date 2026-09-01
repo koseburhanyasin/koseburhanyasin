@@ -28,10 +28,9 @@
 
 ### 🛠️ Tech Stack & Tools
 
+![CODESYS](https://img.shields.io/badge/CODESYS-005596?style=for-the-badge&logo=codesys&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E67E22?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![CODESYS](https://img.shields.io/badge/CODESYS-005596?style=for-the-badge&logo=codesys&logoColor=white)
 
 ---
 
